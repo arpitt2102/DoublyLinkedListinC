@@ -1,10 +1,3 @@
-/***************************************
-* EECS2031 21F – Assigment 2*
-* Author: Thakkar, Arpit Nileshbhai *
-* Email: arpit21@my.yorku.ca *
-* eecs_username: arpit21 *
-* York num: 217632340*
-***************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
